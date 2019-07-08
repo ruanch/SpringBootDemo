@@ -1,2 +1,19 @@
 # SpringBootDemo
-用于测试K8s+Jenkins集成，自动部署应用，自动集测试用例的工程
+
+#### purpose
+
+1. factory build
+2. spring boot test
+
+### Info
+
+```yaml
+server:
+  port: 8080
+```
+
+### API
+
+1. GET /
+2. GET /?name=cheney
+3. GET /random
