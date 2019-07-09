@@ -21,7 +21,7 @@ spec:
   replicas: 1
   template:
     metadata:
-      labels: http://10.20.16.146
+      labels: 10.20.16.146
         app: maven
     spec:
       containers:
