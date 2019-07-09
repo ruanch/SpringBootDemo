@@ -1,5 +1,7 @@
 # SpringBootDemo
 
+集成的文章地址：https://www.jianshu.com/p/3f3c572703b2
+
 #### purpose
 
 1. factory build
